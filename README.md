@@ -23,7 +23,7 @@ This project implements a Turing Machine simulator with the following features:
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/Turing-Machine-Simulator.git
+git clone https://github.com/akorojo/Turing-Machine-Simulator.git
 cd Turing-Machine-Simulator
 ```
 
