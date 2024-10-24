@@ -31,13 +31,21 @@ This project implements a Turing Machine simulator with the following features:
 ## Project Structure
 
 Turing-Machine-Simulator/
+
 ├── setup.py
+
 ├── main.py
+
 ├── README.txt
+
 ├── requirements.txt
+
 ├── turing_machine/
+
     ├── __init__.py
+
     ├── TuringMachineTape.py
+
     ├── TuringMachineUtility.py
 
 ## Usage
