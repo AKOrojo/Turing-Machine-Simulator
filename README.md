@@ -87,12 +87,18 @@ Command: simulate_binary_increment()
 
 Example output:
 === Binary Increment Simulation ===
+
 Initial tape:
+
 | 1 | 1 | 0 | 1 |
-| ^ |   |   |   |
+
+| ^ | _ | _ | _ |
+
 Final tape (after increment):
+
 | 1 | 1 | 1 | 0 |
-|   |   | ^ |   |
+
+| _ | _ | ^ | _ |
 
 ## Contributing
 
